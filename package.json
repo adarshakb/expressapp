@@ -1,0 +1,26 @@
+{
+  "name": "expressapp",
+  "version": "1.0.0",
+  "description": "Trying out the expressjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adarshakb/expressapp.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs"
+  ],
+  "author": "adarshakb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adarshakb/expressapp/issues"
+  },
+  "homepage": "https://github.com/adarshakb/expressapp",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
